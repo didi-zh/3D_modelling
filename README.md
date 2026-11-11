@@ -1,4 +1,4 @@
-# 3D School Design Portfolio (SketchUp)
+# 3D School Projects (SketchUp)
 
 Welcome to my 3D modeling portfolio repository! Here you can find a collection of school projects created using **SketchUp**, focusing on structural design, proportions, and geometry.
 
