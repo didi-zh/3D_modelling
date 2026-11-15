@@ -19,7 +19,7 @@ Welcome to my 3D modeling portfolio repository! Here you can find a collection o
 ![Modern Table](table.png)
 
 ### 3. Umbrellas 
-* **Description:** A complex mechanism study modeling umbrellas in both open and closed states, featuring multi-panel colored fabric and detailed rib structures[cite: 5].
+* **Description:** A complex mechanism study modeling umbrellas in opened state, featuring colored fabric and detailed rib structures.
 * **[View / Download Model Here](https://app.sketchup.com/share/tc/europe/K9LzcEg0N4o?source=web&stoken=l9VZoW_fYnhRQ_4plFeTCqgMvNKNz0cFnc25kVMsepcINetqU09tawYwjZYR9hHH)**
 
 ![Umbrellas](umbrella.png)
